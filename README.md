@@ -175,9 +175,7 @@ PATCH /api/v1/conversations/{conversation_id}/status
 
 ## Security Considerations
 - Rotate API access tokens periodically
-- Use the least privilege principle when generating tokens
 - Monitor and audit API access logs
-- Implement IP whitelisting for API access
 
 ## Troubleshooting
 - Verify API access token validity
