@@ -1,5 +1,7 @@
 # Ruut API Documentation
 
+To Access our Postman collection visit this link `https://documenter.getpostman.com/view/13955459/2sB2cPik6W`
+
 ## Authentication and Access
 
 ### Obtaining API Access Token and Account ID
